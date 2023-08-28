@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1693210438 source:c:\users\lenovo\desktop\embedded by samir\data_structures_implemtation\stack_based_on_array\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Stack.h"
+
+1693209924 c:\users\lenovo\desktop\embedded by samir\data_structures_implemtation\stack_based_on_array\stack.h
+
+1693210307 source:c:\users\lenovo\desktop\embedded by samir\data_structures_implemtation\stack_based_on_array\stack.c
+	"Stack.h"
+
